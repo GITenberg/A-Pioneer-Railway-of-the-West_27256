@@ -1,0 +1,27 @@
+_repo: A-Pioneer-Railway-of-the-West_27256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lafferty, Maude Ward
+    birthdate: 1869
+    deathdate: 1962
+    gutenberg_agent_id: '32574'
+    url: http://www.gutenberg.org/2009/agents/32574
+description: ''
+gutenberg_issued: '2008-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Lexington and Ohio Rail Road Company -- History'
+- !lcsh 'Louisville and Nashville Railroad Company -- History'
+title: A Pioneer Railway of the West
+url: http://www.gutenberg.org/ebooks/27256
